@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(20, 199, 151);
+    font-style:italic;
+    font-size: 100px;  
+}
+
+.left{
+    font-size: 60px;
+    padding: 365px;
+}
+
+.right{
+    font-size: 60px;
+}
+
+#div_one{
+    position: relative;
+    left: 327px;
+}
+
+#div_two{
+    position: relative;
+    left: 918px;
+    bottom: 264px;
+}
